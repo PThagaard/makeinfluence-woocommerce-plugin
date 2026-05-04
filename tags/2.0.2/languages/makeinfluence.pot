@@ -1,0 +1,108 @@
+# This file is distributed under the same license as the Make Influence for Woocommerce plugin.
+# PATRICK THAGAARD <PATRICK@THAGAARD.ORG>, 2022.
+#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Make Influence for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-19 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Dansk\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: partials/admin-page.php:48
+msgid "Aktiver debug"
+msgstr ""
+
+#: partials/admin-page.php:42
+msgid "Aktiver debug log"
+msgstr ""
+
+#: partials/admin-page.php:67 partials/admin-page.php:82
+msgid "Aktiveret"
+msgstr ""
+
+#: partials/admin-page.php:17
+msgid "Business ID"
+msgstr ""
+
+#: plugin.php:112
+msgid "Business ID mangler."
+msgstr ""
+
+#: partials/admin-page.php:34
+msgid "Deaktiver"
+msgstr ""
+
+#: partials/admin-page.php:29
+msgid "Deaktiver iOS Tracking"
+msgstr ""
+
+#: partials/admin-page.php:72 partials/admin-page.php:87
+msgid "Deaktiveret"
+msgstr ""
+
+#: plugin.php:115
+msgid "Debug log er aktiv - Husk at slå dette fra efter test"
+msgstr ""
+
+#: partials/admin-page.php:55
+msgid "Debugging bør ikke benyttes på LIVE hjemmesider over længere tid."
+msgstr ""
+
+#: partials/admin-page.php:126
+msgid "Din WooCommerce \"ordre-modtaget\" side er sat til:"
+msgstr ""
+
+#: plugin.php:112 plugin.php:115
+msgid "Gå til indstillinger"
+msgstr ""
+
+#: partials/admin-page.php:128
+msgid ""
+"Har du problemer med Make Influence tracking, så doubletjek at kunderne "
+"lander på denne side efter gennemført køb."
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate your Make Influence tracking with WooCommerce."
+msgstr ""
+
+#: partials/admin-page.php:10
+msgid "Make Influence Dashboard"
+msgstr ""
+
+#: partials/admin-page.php:112
+msgid "Make Influence iOS Pagetracking er ikke aktiveret på siden!"
+msgstr ""
+
+#: partials/admin-page.php:104 partials/admin-page.php:108
+msgid "Make Influence iOS Pagetracking er korrekt aktiveret på siden!"
+msgstr ""
+
+#: partials/admin-page.php:10
+msgid "Opret gratis konto"
+msgstr ""
+
+#: partials/admin-page.php:52
+msgid "Se log"
+msgstr ""
+
+#: partials/admin-page.php:35
+msgid ""
+"Tjek denne boks, hvis du selv har indsat iOS page- og conversion tracking."
+msgstr ""
+
+#: partials/admin-page.php:96
+msgid "Trackingstatus"
+msgstr ""
+
+#: plugin.php:118
+msgid "WooCommerce er ikke aktiveret"
+msgstr ""
